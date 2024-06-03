@@ -1,0 +1,5 @@
+Daily Report for 2024-06-03:
+User ID: 1, Type: credit, Amount: 1.00
+User ID: 1, Type: credit, Amount: 1.00
+User ID: 1, Type: credit, Amount: 10.00
+User ID: 1, Type: debit, Amount: 1.00
